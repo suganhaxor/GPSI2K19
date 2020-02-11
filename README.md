@@ -1,5 +1,3 @@
-GPsploit
-This tool was developed at Gurugram Police Summer Internship 2019 under Mr. Rakshit Tandon sir.
 <h1 align="center">
   <br>
   <a href="https://github.com/adithyan-ak/GPsploit"><img src="https://upload.wikimedia.org/wikipedia/en/d/d0/Haryana-police-logo.png" alt="GPsploit"></a>
@@ -7,7 +5,7 @@ This tool was developed at Gurugram Police Summer Internship 2019 under Mr. Raks
   GPsploit
   <br>
 </h1>
-
+<p> This tool was developed at Gurugram Police Summer Internship 2019 under Mr. Rakshit Tandon.</p>
 <h4 align="center">A Comprehensive OSINT Tool</h4>
 
 ### Main Features
