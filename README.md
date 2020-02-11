@@ -6,7 +6,6 @@
   <br>
 </h1>
 <h4 align="center">A Comprehensive OSINT Tool</h4>
-<p align="center"> This tool was developed at Gurugram Police Summer Internship 2019 under Mr. Rakshit Tandon.</p>
 
 ### Main Features
 - Email Scan
