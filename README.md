@@ -28,7 +28,7 @@
 - Pratyusha
 - Sarthak
 - Shubh Dhal
-- Sugan
+- Sugan M
 - Swati
 
 <h4 align="center"> GPsploit detailed report : <a href="https://drive.google.com/file/d/1kz9w_pwJ1nijLjLh8bfCedDQ9KBby7jH/view?usp=drivesdk">Click here</a></h4>
